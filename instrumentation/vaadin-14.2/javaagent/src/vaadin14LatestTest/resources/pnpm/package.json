@@ -39,7 +39,7 @@
     "@vaadin/vaadin-time-picker": "2.4.0",
     "@vaadin/vaadin-upload": "4.4.3",
     "@webcomponents/webcomponentsjs": "^2.2.10",
-    "construct-style-sheets-polyfill": "3.0.4",
+    "construct-style-sheets-polyfill": "3.1.0",
     "lit-element": "2.5.1",
     "lit-html": "1.4.1"
   },
